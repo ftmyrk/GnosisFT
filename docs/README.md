@@ -1,8 +1,18 @@
-<p align="center">
-  <a href="https://gnosisft.com" target="_blank">
-    <img src="./gnosisFT_Logo1_half.png" width="120" alt="GnosisFT Logo"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+  <td align="right" valign="middle">
+    <a href="https://gnosisft.com" target="_blank">
+      <img src="./resized_gnosisFT_Logo1_512x512.png" width="260" alt="GnosisFT Logo"/>
+    </a>
+  </td>
+  <td width="20"></td> <!-- Gap between images -->
+  <td align="left" valign="middle">
+    <a href="https://gnosisft.com" target="_blank">
+      <img src="./Gnosisft_Writing.png" width="300" alt="GnosisFT Writing"/>
+    </a>
+  </td>
+</tr>
+</table>
 
 # 🧠 GnosisFT (SmartBuy-AI)
 
