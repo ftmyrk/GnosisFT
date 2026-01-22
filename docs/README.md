@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gnosisft.com" target="_blank">
-    <img src="./logo.png" width="120" alt="GnosisFT Logo"/>
+    <img src="./gnosisFT_Logo1_half.png" width="120" alt="GnosisFT Logo"/>
   </a>
 </p>
 
